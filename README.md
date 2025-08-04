@@ -9,3 +9,4 @@ Features
 - Change the background image to anything you like
 - Built-in live digital clock
 - Clean UI with dark/light theme compatibilit
+![Image Alt](https://github.com/wu-tangyatharthsingh/To-Do-List-with-customizable-background/blob/43db722b6caf6136c495aaf03ff7668a660e6b00/Screenshot%202025-08-04%20165442.png)
