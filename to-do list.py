@@ -7,6 +7,7 @@ import time
 window = customtkinter.CTk()
 window.title("To-Do List")
 window.geometry("400x400")
+window.resizable(False, False) 
 
 topframe = customtkinter.CTkFrame(window,width=400,height=40,fg_color="black")
 topframe.place(x=0,y=0)
